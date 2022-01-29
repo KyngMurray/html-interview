@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-image: url("https://www.canva.com/t/EAD2-sy3snI-tropical-happiness-zoom-virtual-background");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -28,6 +28,7 @@ h1 {
 h2 {
   font-family: Garamond, Serif;
   font-style: italic;
+  font-weight: bold;
 }
 
 img {
