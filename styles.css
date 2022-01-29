@@ -1,0 +1,38 @@
+body {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fbackground%2F&psig=AOvVaw2YBS2LsBY7ivdQ7n46apMk&ust=1643528113655000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCSi8i51vUCFQAAAAAdAAAAABAJ");
+}
+
+div {
+  border: DarkGreen;
+  padding: 25px; 
+}
+
+#example1 {
+  box-shadow: 5px 5px DarkOliveGreen;
+  background-color: DarkSeaGreen;
+}
+
+#example2 {
+  box-shadow: 5px 5px DarkKhaki;
+  background-color: Bisque;
+}
+
+h1 {
+  font-family: Georgia, Serif;
+}
+
+h2 {
+  font-family: Garamond, Serif;
+  style: <b>;
+}
+
+img {
+  style="border: 50px; 
+  color: BurlyWood;
+}
+
+li {
+  style: <b>;
+  style: <i>;
+  margin: 10px;
+}
