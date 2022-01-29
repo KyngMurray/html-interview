@@ -38,19 +38,14 @@ h2 {
 img {
   style="border: 50px; 
   color: BurlyWood;
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-ol, li, ul {
+ol {
   font-weight: bold;
   font-style: italic;
   margin: 10px;
   text-align: center;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
 }
