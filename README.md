@@ -6,7 +6,7 @@
   </div>
   
   <div>
-   https://github.com/KyngMurray
+   <a hrep="https://github.com/KyngMurray"></a>
   </div>
   
   <div>
@@ -40,7 +40,7 @@
   </div>
   
   <div>
-   https://github.com/wkirklan
+   <a hrep="https://github.com/wkirklan"></a>
   </div>
   
   <div>
