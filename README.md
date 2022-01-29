@@ -1,37 +1,77 @@
-# HTML Interview
-
-In this assignment, we'll work in groups of 2-3 students. This is a great time to meet your fellow classmates!
-
-Although we're working in groups for this assignment, we'll still turn in separate code submissions.
-
-## Instructions
-
-#### Part 0: Project set up
-
-Start off by forking this repository. Forking an existing repository is just like creating a new one except that your new repository will contain a copy of the forked code. 
-
-After forking the repository, enable GitHub Pages. To do this, go to the Settings tab of your repository, then go to Pages on the left. Change source to 'Main' or 'Master' depending on which option you have. Then click save. The page should refresh and a URL to your hosted project should be visible.
-
-Finally, copy that URL, navigate back to the home page of your repository, click the gear icon next to the 'About' section on the right, and set the 'Website' of your project to be this GitHub Pages URL.
-
-#### Part 1: Ten questions, ten answers
-
-As a group, think of ten total questions that you can ask one another and record the answers to.
-
-Have each person answer the ten questions. Write down both the questions and their answers.
-
-#### Part 2: Building an HTML page
-
-Now that you have all the questions and answers, its time to display them in HTML. 
-
-We'll create a section on the page for each student's answers.
-
-* Start out by creating an empty HTML page with the HTML starter code
-* Create 2-3 `<div>` elements in the `<body>` section of the HTML, one for each student
-* Inside each `<div>`
-  * Create a header (either `<h1>`, `<h2>`, etc) with the student's name
-  * Under the header, create an anchor tag that links to the student's GitHub page
-  * Under the link, add an image of the student, set the image's height to `250px`
-  * And finally, create an ordered list that contains a list item for each question and answer
-    * Each question and answer should be stored in a single list item element (`<li>`)
-    * The question part of the list item should be bolded
+<!DOCTYPE html>
+<html lang="en">
+ <body>
+  <div>
+   <h1><i> Kyng Murray </i></h1>
+  </div>
+  
+  <div>
+   https://github.com/KyngMurray
+  </div>
+  
+  <div>
+   <img src="https://avatars.githubusercontent.com/u/98422952?v=4" height="250px">
+   <ol><h2><b><i>Interview Questions</i></b></h2>
+    <li><b> How old are you? </b></li>
+    <ul> 29 </ul>
+    <li><b> Which high school did you attend? </b></li>
+    <ul> Mount Zion High </ul>
+    <li><b> Where did you grow up? </b></li>
+    <ul> Atlanta, GA </ul>
+    <li><b> What are some of your hobbies? </b></li>
+    <ul> Reading & Researching </ul>
+    <li><b> Why Tech? </b></li>
+    <ul> It is in all aspects of our daily lives so it's inevitable </ul>
+    <li><b> What is your favorite coding language? </b></li>
+    <ul> Python </ul>
+    <li><b> Mac or PC? </b></li>
+    <ul> PC </ul>
+    <li><b> Android or iPhone? </b></li>
+    <ul> Android </ul>
+    <li><b> Most expensive piece of Tech you own? </b></li>
+    <ul> Samsung 65in Curve TV </ul>
+    <li><b> What piece of tech do you want buy but do not currently own? </b></li>
+    <ul> VR Oculus Headset </ul>
+   </ol>
+  </div>
+  
+  <div>
+   <h1><i> Will Kirkland </i></h1>
+  </div>
+  
+  <div>
+   https://github.com/wkirklan
+  </div>
+  
+  <div>
+   <img src="https://ca.slack-edge.com/T02UX8SNR39-U030NM879CY-13429bad898e-512" height="250px">
+   <ol><h2><b><i>Interview Questions</i></b></h2>
+    <li><b> How old are you? </b></li>
+    <ul> 37 </ul>
+    <li><b> Which high school did you attend? </b></li>
+    <ul> Largo High School </ul>
+    <li><b> Where did you grow up? </b></li>
+    <ul> Largo, MD </ul>
+    <li><b> What are some of your hobbies? </b></li>
+    <ul> History, Drawing, Hunting </ul>
+    <li><b> Why Tech? </b></li>
+    <ul> It is a very powerful tool we use daily </ul>
+    <li><b> What is your favorite coding language? </b></li>
+    <ul> JavaScript </ul>
+    <li><b> Mac or PC? </b></li>
+    <ul> Mac </ul>
+    <li><b> Android or iPhone? </b></li>
+    <ul> iPhone </ul>
+    <li><b> Most expensive piece of Tech you own? </b></li>
+    <ul> MacBook Pro 14 </ul>
+    <li><b> What piece of tech do you want buy but do not currently own? </b></li>
+    <ul> iPhone 14, Once Released </ul>
+   </ol>
+  </div>
+ </body>
+</html>
+ 
+ 
+    
+    
+ 
