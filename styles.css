@@ -19,11 +19,12 @@ div {
 
 h1 {
   font-family: Georgia, Serif;
+  font-style: italic
 }
 
 h2 {
   font-family: Garamond, Serif;
-  style: <b>;
+  font-style: italic;
 }
 
 img {
@@ -32,7 +33,7 @@ img {
 }
 
 li {
-  style: <b>;
-  style: <i>;
+  font-weight: bold;
+  font-style: italic;
   margin: 10px;
 }
