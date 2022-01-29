@@ -3,11 +3,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  text-align: center;
 }
 
 div {
   border: DarkGreen;
   padding: 25px; 
+  text-align: center;
 }
 
 #example1 {
@@ -22,22 +24,26 @@ div {
 
 h1 {
   font-family: Georgia, Serif;
-  font-style: italic
+  font-style: italic;
+  text-align: center;
 }
 
 h2 {
   font-family: Garamond, Serif;
   font-style: italic;
   font-weight: bold;
+  text-align: center;
 }
 
 img {
   style="border: 50px; 
   color: BurlyWood;
+  text-align: center;
 }
 
 li {
   font-weight: bold;
   font-style: italic;
   margin: 10px;
+  text-align: center;
 }
