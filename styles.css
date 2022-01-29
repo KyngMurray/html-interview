@@ -3,23 +3,23 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  text-align: center;
 }
 
 div {
   border: DarkGreen;
-  padding: 25px; 
-  text-align: center;
+  padding: 25px;
 }
 
 #example1 {
   box-shadow: 5px 5px DarkOliveGreen;
   background-color: DarkSeaGreen;
+  text-align: center;
 }
 
 #example2 {
   box-shadow: 5px 5px DarkKhaki;
   background-color: Bisque;
+  text-align: center;
 }
 
 h1 {
