@@ -41,7 +41,7 @@ img {
   text-align: center;
 }
 
-li {
+ol, li, ul {
   font-weight: bold;
   font-style: italic;
   margin: 10px;
