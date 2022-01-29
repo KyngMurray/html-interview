@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+ <head>
+  <link rel="stylesheet" href"styles.css">
+ </head>
  <body>
   <div>
    <h1><i> Kyng Murray </i></h1>
   </div>
   
   <div>
-   <a hrep="https://github.com/KyngMurray"></a>
+   <a href="https://github.com/KyngMurray">Kyng's GITHUB Profile</a>
   </div>
   
   <div>
@@ -40,7 +43,7 @@
   </div>
   
   <div>
-   <a hrep="https://github.com/wkirklan"></a>
+   <a href="https://github.com/wkirklan">Will's GITHUB Profile</a>
   </div>
   
   <div>
