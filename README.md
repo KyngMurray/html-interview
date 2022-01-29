@@ -23,7 +23,7 @@
   <ul> It is in all aspects of our daily lives so it's inevitable </ul>
   <li> What is your favorite coding language? </li>
   <ul> Python </ul>
-  <li> Mac or PC? =</li>
+  <li> Mac or PC? </li>
   <ul> PC </ul>
   <li> Android or iPhone? </li>
   <ul> Android </ul>
