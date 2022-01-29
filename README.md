@@ -9,7 +9,7 @@
   <a href="https://github.com/KyngMurray">Kyng's GITHUB Profile</a>
  </div>
  
- <img src="https://avatars.githubusercontent.com/u/98422952?v=4" height="250px">
+ <img src="https://avatars.githubusercontent.com/u/98422952?v=4" height="250px" class="center">
  <ol><h2><i>Interview Questions</i></h2>
   <li> How old are you? </li>
   <ul> 29 </ul>
@@ -38,7 +38,7 @@
   <a href="https://github.com/wkirklan">Will's GITHUB Profile</a>
  </div>
  
- <img src="https://ca.slack-edge.com/T02UX8SNR39-U030NM879CY-13429bad898e-512" height="250px">
+ <img src="https://ca.slack-edge.com/T02UX8SNR39-U030NM879CY-13429bad898e-512" height="250px" class="center">
  <ol><h2><i>Interview Questions</i></h2>
   <li> How old are you? </li>
   <ul> 37 </ul>
