@@ -50,7 +50,7 @@
   <ul> History, Drawing, Hunting </ul>
   <li> Why Tech? </li>
   <ul> It is a very powerful tool we use daily </ul>
-  <li> What is your favorite coding language? =</li>
+  <li> What is your favorite coding language? </li>
   <ul> JavaScript </ul>
   <li> Mac or PC? </li>
   <ul> Mac </ul>
